@@ -11,6 +11,7 @@ With the aim of effectively showcasing our five utilities, we will be presenting
 ![image](https://user-images.githubusercontent.com/81930307/227557653-bcf484dc-a751-4fc4-a4fe-96a64a318240.png)
 
 ## Mod Manager
+In order to provide efficient moderation to our staff members, we have integrated our moderation functions into our GUI utility. This allows staff members to quickly and easily execute necessary functions. Please note that this utility is intended for use by staff members with an active server and is not applicable to non-staff users.
 ![image](https://user-images.githubusercontent.com/81930307/227557872-f937461f-3ba2-4569-a821-cabd3c1f3ab1.png)
 
 ## Music Manager
