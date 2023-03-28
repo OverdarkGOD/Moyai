@@ -10,6 +10,7 @@ With the aim of effectively showcasing our five utilities, we will be presenting
 
 ## Mod Manager
 In order to provide efficient moderation to our staff members, we have integrated our moderation functions into our GUI utility. This allows staff members to quickly and easily execute necessary functions. Please note that this utility is intended for use by staff members with an active server and is not applicable to non-staff users.
+
 ![image](https://user-images.githubusercontent.com/81930307/227557872-f937461f-3ba2-4569-a821-cabd3c1f3ab1.png)
 
 ## Music Manager
@@ -18,6 +19,7 @@ As of right now, only three functions are working. The "summon", "join", and "pl
 
 ## SQL Manager
 We are pleased to announce that our team has resolved the issue with the SQL utility. Users are now able to create databases, insert data, retrieve tasks and data, and delete tasks as needed!
+
 [image](https://user-images.githubusercontent.com/81930307/228264375-686450af-aa82-45da-90cb-b90c45c9886b.png)
 
 
