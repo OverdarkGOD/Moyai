@@ -18,8 +18,6 @@ As of right now, only three functions are working. The "summon", "join", and "pl
 ![image](https://user-images.githubusercontent.com/81930307/227558199-f7972868-f6f2-40fa-9819-35d16d929a26.png)
 
 ## SQL Manager
-We are pleased to announce that our team has resolved the issue with the SQL utility. Users are now able to create databases, insert data, retrieve tasks and data, and delete tasks as needed!
-
 [image](https://user-images.githubusercontent.com/81930307/228264375-686450af-aa82-45da-90cb-b90c45c9886b.png)
 
 
