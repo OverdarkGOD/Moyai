@@ -3,6 +3,7 @@ Moyai is a versatile Discord bot that utilizes Python and Discord.py to interact
 
 ## Managing Utilities 
 With the aim of effectively showcasing our five utilities, we will be presenting a clear classification and demonstration of the utilization of each individual function. Within the Discord platform, we have organized and classified our functions to facilitate execution through a user-friendly graphical interface (GUI).
+
 ![image](https://user-images.githubusercontent.com/81930307/227557233-38439322-6b07-4f4e-91d6-38d0cbbb556a.png)
 
 ## Fun Manager
