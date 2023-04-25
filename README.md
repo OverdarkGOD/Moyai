@@ -32,3 +32,13 @@ We have incorporated third-party programs into Moyai to enhance its capabilities
 ## Future Updates
 As previously mentioned, our team has resolved the issue with our SQL utility and we are continuously working to add new features to enhance its functionality. We are also actively developing our Support Manager and Music Manager, and constantly implementing new functions. We are pleased to announce that we have been invited to integrate OpenAI’s GPT-4 AI technology into our bot. This will enhance its capabilities and make it a more intelligent and versatile tool for our users.
 
+## MoyaiTEST | Version 1.0 beta
+MoyaiTEST is a Discord Bot made in Python. It is the testing bot to our main bot, Moyai. Our testing bot will provide tests to newly added functions. Some functions may or may not work.
+
+## MoyaiGUI | Version 1.0 
+Introducing MoyaiGUI, our cutting-edge graphical user interface designed to seamlessly integrate with Discord and the latest version of its Python Library. Although the current limitations of Discord.py 2.0 may result in a modest design, our interface is regularly updated to ensure optimal functionality and relevancy.
+
+MoyaiGUI features five utility managers that efficiently categorize and execute functions. Additionally, our help management utility serves as a comprehensive guide, providing users with access to all management utilities and their respective functions. With MoyaiGUI, users can effortlessly navigate and utilize the full range of features available to them.
+
+To use MoyaiTEST, join the community support server. The link is provided in this file.
+
